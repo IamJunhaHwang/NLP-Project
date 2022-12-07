@@ -6,8 +6,11 @@ TBD
 
 ### 의존성
 
-- python 3.x
-- TBD
+파이썬 라이브러리 설치는 아래와 같이 진행하면 됩니다.
+
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ### 사용 방법
 
