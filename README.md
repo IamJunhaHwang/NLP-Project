@@ -22,6 +22,13 @@ TBD
   
   - 데이터명: 인공지능 언어 능력 평가: 속성 기반 감성 분석(버전1.0)
   
+### 라이선스
+
+This project following Apache 2.0 License as written in LICENSE file
+
+Copyright 2022 JunHa-Hwang and klue contributors
+
+Copyright (c) 2021 KLUE-baseline : KLUE-baseline
 
 ### Author
 
