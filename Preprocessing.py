@@ -18,3 +18,5 @@ if __name__ == "__main__":
     sample_sen = "DLP 계열의 옵토마와 3LCD 방식의 엡손제품 5개 모델을 사용해 보았지만 ++ 이게 제일 괜찮더라~~!"
 
     print(preprocess(sample_sen, True))
+
+    # 결과: 계열의 옵토마와 방식의 엡손제품 개 모델을 사용해 보았지만 이게 제일 괜찮더라
