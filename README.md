@@ -1,5 +1,11 @@
 ## NLP-Project
 
+해당 레포지토리는 `자연언어처리` 과목의 일환으로 만들어졌습니다.
+
+[2022 국립국어원 인공 지능 언어 능력 평가](https://corpus.korean.go.kr/task/taskList.do?taskId=8&clCd=END_TASK&subMenuId=sub01) 태스크에 참가하고 이를 해결하는 방법을 구현합니다.
+
+---------
+
 ### 의존성
 
 파이썬 라이브러리 설치는 아래와 같이 진행하면 됩니다.
